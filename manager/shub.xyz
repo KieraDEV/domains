@@ -1,4 +1,5 @@
-shub.xyz
+$(domain).connection(function () { 
+     < shub.xyz >
 
 /*Made by Kiera*/
 /*All rights reserved*/
